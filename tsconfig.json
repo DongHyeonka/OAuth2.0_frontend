@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", // 절대 Url 설정 가독성이 좋아짐
     "target": "es5",
     "lib": [
       "dom",
